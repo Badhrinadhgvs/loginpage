@@ -1,0 +1,83 @@
+#ad{
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+    /* background-image: url("https://nutritionfacts.org/app/uploads/2023/05/62-05-is-spicy-food-good-for-you.jpghttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBQDblobgVuzLew69fvr31WhV0OxZob9fHczr0APQibA&s"); */
+    background-size: cover;
+    position: center;
+    background-image: url("https://nutritionfacts.org/app/uploads/2023/05/62-05-is-spicy-food-good-for-you.jpg");
+}
+.dd{
+    margin: 50px;
+    padding: 40px;
+    border-radius: 50px;
+    background:rgba(256, 256, 256, 0.5);
+    width: 40%;
+    height: 40%;
+    line-height: initial;
+    border-width: 5px;
+    border-color:rgba(0, 0, 0, 0.8);
+    border-style: solid;
+    background-position: center;
+    text-align: center;
+    background: brightness 50px;
+}
+#txt{
+    margin: 5px;
+    padding: 10px;
+    border-radius: 75px;
+    border-color: rgba(12, 1, 17, 1.0);
+    border-width: medium;
+    background-color:transparent;
+    font-weight: 900;
+    font: bolder;
+    font-style:italic;
+    text-shadow: rgba(0, 0, 0, 1.0);
+}
+#txt1{
+    margin: 5px;
+    padding: 10px;
+    border-radius: 75px;
+    border-color: rgba(12, 1, 17, 1.0);
+    border-width: medium;
+    background:transparent;
+    font-weight: 900;
+    font: bolder;
+    font-style: italic;
+}
+#cbox{
+    margin: 5px;
+    padding: 5px;
+    font-weight: 900;
+    border: 5px;
+
+}
+#cbox1{
+    padding: 0px;
+    margin: 0px;
+}
+#prob{
+    text-decoration: none;
+    font-style: italic;
+    color:rgba(2,2,2,1.0);
+    width: 45%;
+    margin: 5px;
+    padding: 5px;
+    font-weight: 900;
+    border: 5px;
+}
+#log{
+    width: 20%;
+    color: blue;
+    height: 20%;
+    background-color: white;
+    border-radius: 50px;
+    padding: 5px;
+    margin: 5px;
+    background-clip: border-box;
+}
+#rem{
+    color:black;
+    font-weight: 900;
+    font-style: italic;    
+}
